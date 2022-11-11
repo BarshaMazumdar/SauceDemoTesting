@@ -9,9 +9,7 @@ Feature: Login flow test for saucedemo project
     Then verify the default home page
 
     Examples: 
-      | username                | password     |     
+      | username                | password     |
       | standard_user           | secret_sauce |
-     
-     
-     
-
+      | problem_user            | secret_sauce |
+      | performance_glitch_user | secret_sauce |
