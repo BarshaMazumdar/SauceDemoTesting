@@ -1,5 +1,7 @@
 # SauceDemoTesting
-chrome version used 107.0.5304.89
+chrome version used: 107.0.5304.89
+
+IDE used: Eclipse IDE for Java Developers - 2022-03
 
 How to Run the project: 
 
